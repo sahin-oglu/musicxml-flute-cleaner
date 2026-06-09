@@ -2,6 +2,8 @@
 
 A lightweight Python utility that simplifies compressed MusicXML (`.mxl`) files for monophonic flute practice.
 
+I essentially came up with the idea after having to deal with messy piano notes. If you only want to use the notes for playing on the flute, then this project is for you.
+
 The script processes every `.mxl` file in its own folder, replaces each chord with its highest note, hides rests from the printed score, and saves the cleaned result in place.
 
 A backup of each original file is created automatically before any changes are made.
