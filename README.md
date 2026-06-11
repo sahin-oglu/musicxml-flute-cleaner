@@ -58,15 +58,6 @@ python flute_cleaner.py
 
 The script automatically processes every `.mxl` file in the folder.
 
-## Using PyCharm
-
-1. Open `flute_cleaner.py` in PyCharm.
-2. Place your `.mxl` files in the same folder as the script.
-3. Right-click inside the editor.
-4. Select **Run 'flute_cleaner'**.
-
-After the first run, you can use the green Run button in the toolbar.
-
 ## Notes
 
 * Existing `.backup.mxl` files are never overwritten.
